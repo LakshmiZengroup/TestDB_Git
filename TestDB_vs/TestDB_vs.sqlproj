@@ -66,5 +66,6 @@
     <Build Include="dbo\Stored Procedures\GetProductDesc_withparameters.sql" />
     <Build Include="dbo\Stored Procedures\GetProductDesc.sql" />
     <Build Include="dbo\Stored Procedures\Procedure1.sql" />
+    <Build Include="dbo\Stored Procedures\Procedure2.sql" />
   </ItemGroup>
 </Project>
